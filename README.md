@@ -1,7 +1,3 @@
-# Aula 2 completa
-
-Este projeto contém o código completo da aula 2.
-
 Neste código, nossa malha agora possuirá um atributo adicional, a cor. Isso causa as seguintes modificações:
 
 1. Criação de uma nova variável de entrada no Vertex Shader, chamada `aColor` do tipo `vec3`
